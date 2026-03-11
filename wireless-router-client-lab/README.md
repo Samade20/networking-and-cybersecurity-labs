@@ -1,4 +1,3 @@
-<img width="1365" height="719" alt="topology png" src="https://github.com/user-attachments/assets/4d3435ca-0e34-4ebb-8533-54a3f00ebc32" />
 # Wireless Router and Client Configuration Lab
 
 ## Project Overview
