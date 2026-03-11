@@ -1,6 +1,5 @@
 # Networking-and-Cybersecurity-Labs
 Hands-on Cisco Packet Tracer networking and cybersecurity lab projects.
-# Networking and Cybersecurity Labs
 
 This repository contains my hands-on Cisco Packet Tracer lab projects as I build practical skills in networking and cybersecurity.
 
