@@ -28,6 +28,21 @@ The network includes:
 - Verified internal LAN structure
 - Simulated connectivity to an external web resource
 
+## Configuration Steps
+
+1. Place a router, switch, and PCs in Cisco Packet Tracer
+2. Connect devices using Ethernet cables
+3. Configure IP addresses on PCs
+4. Configure the router interface
+5. Test connectivity using ping
+
+## Verification
+
+Connectivity was verified using:
+
+ping 192.168.1.1
+ping 192.168.1.10
+
 ## Skills Demonstrated
 
 - LAN design
