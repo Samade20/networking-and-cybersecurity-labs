@@ -138,3 +138,19 @@ splunk-bruteforce-detection-lab/
 ├── results/
 └── screenshots/
 ```
+## Screenshots
+
+### Splunk Search Results
+![Search Results](screenshots/search_results.png)
+
+### Total Failed Logins
+![Total Failed Logins](screenshots/total_failed_logins.png)
+
+### Top Attacking IPs
+![Top Attacking IPs](screenshots/top_attacking_ips.png)
+
+### Brute Force Detection
+![Brute Force Detection](screenshots/brute_force_detection.png)
+
+### Failed Login Spikes
+![Failed Login Spikes](screenshots/failed_login_spikes.png)
