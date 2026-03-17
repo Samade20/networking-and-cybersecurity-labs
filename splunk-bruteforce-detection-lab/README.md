@@ -154,3 +154,7 @@ splunk-bruteforce-detection-lab/
 
 ### Failed Login Spikes
 ![Failed Login Spikes](screenshots/failed_login_spikes.png)
+
+## Splunk Projects
+
+- [Splunk Brute Force Login Detection Lab](splunk-bruteforce-detection-lab/README.md)
