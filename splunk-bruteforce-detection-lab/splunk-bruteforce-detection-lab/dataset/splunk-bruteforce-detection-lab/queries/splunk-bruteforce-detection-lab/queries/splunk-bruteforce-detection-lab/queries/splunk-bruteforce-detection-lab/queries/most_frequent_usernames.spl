@@ -1,0 +1,3 @@
+index=login_dataset
+| stats count by username
+| sort - count
